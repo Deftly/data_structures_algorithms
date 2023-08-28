@@ -1,4 +1,4 @@
-package containsduplicate
+package data_structures_algorithms
 
 func containsDuplicate(nums []int) bool {
 	if len(nums) <= 1 {
