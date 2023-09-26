@@ -12,6 +12,7 @@
 |242|[Valid Anagram](./leetcode/0242.valid_anagram/README.md)|[Go](./leetcode/0242.valid_anagram/242.valid_anagram.go)|Easy|Completed|
 |243|[Shortest Word Distance🔒](./leetcode/0243.shortest_word_distance/README.md)|[Go](./leetcode/0243.shortest_word_distance/243.shortest_word_distance.go)|Easy|Completed|
 |244|[Shortest Word Distance II🔒](./leetcode/0244.shortest_word_distance_2/README.md)|[Go](./leetcode/0244.shortest_word_distance_2/244_shortest_word_distance_2.go)|Medium|In-progress|
+|347|[Top K Frequent Elements](./leetcode/0347.top_k_frequent_elements/README.md)|[Go](./leetcode/0347.top_k_frequent_elements/347.top_k_frequent_elements.go)|Medium|Completed|
 |359|[Logger Rate Limiter🔒](./leetcode/0359.logger_rate_limiter/README.md)|[Go](./leetcode/0359.logger_rate_limiter/359.logger_rate_limiter.go)|Easy|Completed|
 |379|[Design Phone Directory🔒](./leetcode/0379.design_phone_directory/README.md)|[Go](./leetcode/0379.design_phone_directory/379.design_phone_directory.go)|Medium|In-progress|
 |1929|[Concatenation of Array](./leetcode/1929.concatenation_of_array/README.md)|[Go](./leetcode/1929.concatenation_of_array/1929.concatenation_of_array.go)|Easy|Completed|
