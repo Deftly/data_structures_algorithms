@@ -9,6 +9,7 @@
 |36|[Valid Sudoku](./leetcode/0036.valid_sudoku/)|[Go](./leetcode/0036.valid_sudoku/36.valid_sudoku.go)|Medium|Completed|
 |49|[Group Anagrams](./leetcode/0049.group_anagrams/)|[Go](./leetcode/0049.group_anagrams/49.group_anagrams.go)|Medium|Completed|
 |121|[Best Time to Buy and Sell Stock](./leetcode/0121.best_time_to_buy_and_sell_stock/)|[Go](./leetcode/0121.best_time_to_buy_and_sell_stock/121.best_time_to_buy_and_sell_stock.go)|Easy|Completed|
+|125|[Valid Palindrome](./leetcode/0125.valid_palindrome/)|[Go](./leetcode/0125.valid_palindrome/125.valid_palindrome.go)|Easy|Completed|
 |128|[Longest Consecutive Sequence](./leetcode/0128.longest_consecutive_sequence/)|[Go](./leetcode/0128.longest_consecutive_sequence/128.longest_consecutive_sequence.go)|Medium|Completed|
 |217|[Contains Duplicate](./leetcode/0217.contains_duplicate/)|[Go](./leetcode/0217.contains_duplicate/217.contains_duplicate.go)|Easy|Completed|
 |238|[Product of Array Except Self](./leetcode/0238.product_of_array_except_self/)|[Go](./leetcode/0238.product_of_array_except_self/238.product_of_array_except_self.go)|Medium|Completed|
