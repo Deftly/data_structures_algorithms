@@ -6,7 +6,7 @@
 |2|[Add Two Numbers](./leetcode/0002.add_two_numbers/)|[Go](./leetcode/0002.add_two_numbers/2.add_two_numbers.go)|Medium|Completed|
 |3|[Longest Substring Without Repeating Characters](./leetcode/0003.longest_substring_without_repeating_characters/)|[Go](./leetcode/0003.longest_substring_without_repeating_characters/3.longest_susbtring_without_repeating.go)|Medium|Completed|
 |5|[Longest Palindromic Substring](./leetcode/0005.longest_palindromic_substring/)|[Go](./leetcode/0005.longest_palindromic_substring/5.longest_palindromic_substring.go)|Medium|In-progress|
-|15|[3Sum](/leetcode/0015.3sum/)|[Go](./leetcode/0015.3sum/15.3sum.go)|Medium|In-progress|
+|15|[3Sum](/leetcode/0015.3sum/)|[Go](./leetcode/0015.3sum/15.3sum.go)|Medium|Completed|
 |36|[Valid Sudoku](./leetcode/0036.valid_sudoku/)|[Go](./leetcode/0036.valid_sudoku/36.valid_sudoku.go)|Medium|Completed|
 |49|[Group Anagrams](./leetcode/0049.group_anagrams/)|[Go](./leetcode/0049.group_anagrams/49.group_anagrams.go)|Medium|Completed|
 |121|[Best Time to Buy and Sell Stock](./leetcode/0121.best_time_to_buy_and_sell_stock/)|[Go](./leetcode/0121.best_time_to_buy_and_sell_stock/121.best_time_to_buy_and_sell_stock.go)|Easy|Completed|
