@@ -1,15 +1,15 @@
 package data_structures_algorithms
 
 func lengthOfLongestSubstring(s string) int {
-	right, left, res := 0, 0, 0
+	left, right, res := 0, 0, 0
 	indexes := make(map[byte]int, len(s))
-	for left < len(s) {
-		if index, ok := indexes[s[left]]; ok && index >= right {
-			right = index + 1
+	for right < len(s) {
+		if index, ok := indexes[s[right]]; ok && index >= left {
+			left = index + 1
 		}
-		indexes[s[left]] = left
-		left++
-		res = max(res, left-right)
+		indexes[s[right]] = right
+		right++
+		res = max(res, right-left)
 	}
 	return res
 }
