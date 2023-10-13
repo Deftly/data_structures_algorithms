@@ -23,4 +23,5 @@
 |347|[Top K Frequent Elements](./leetcode/0347.top_k_frequent_elements/)|[Go](./leetcode/0347.top_k_frequent_elements/347.top_k_frequent_elements.go)|Medium|Completed|
 |359|[Logger Rate Limiter🔒](./leetcode/0359.logger_rate_limiter/)|[Go](./leetcode/0359.logger_rate_limiter/359.logger_rate_limiter.go)|Easy|Completed|
 |379|[Design Phone Directory🔒](./leetcode/0379.design_phone_directory/)|[Go](./leetcode/0379.design_phone_directory/379.design_phone_directory.go)|Medium|In-progress|
+|746|[Min Cost Climbing Stairs](./leetcode/0746.min_cost_climbing_stairs/)|[Go](./leetcode/0746.min_cost_climbing_stairs/746.min_cost_climbing_stairs.go)|Easy|In-progress|
 |1929|[Concatenation of Array](./leetcode/1929.concatenation_of_array/)|[Go](./leetcode/1929.concatenation_of_array/1929.concatenation_of_array.go)|Easy|Completed|
